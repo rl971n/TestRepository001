@@ -68,3 +68,5 @@ What is special about the Git Repository model.
 Git is designed as a distributed version-control system.
 Primarily focused on tracking source code during development.
 Contains elements to coordinate among programmers, track changes, and support non-linear workflows.
+
+Added text as part of Theia lab.
