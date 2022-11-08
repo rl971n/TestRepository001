@@ -70,3 +70,7 @@ Primarily focused on tracking source code during development.
 Contains elements to coordinate among programmers, track changes, and support non-linear workflows.
 
 Added text as part of Theia lab.
+
+Added this line as part of the "Working with GitHub from the Command Line" lab.
+
+Added this line as part of the "Working with GitHub from the Command Line" lab.
